@@ -1,0 +1,3 @@
+tb_full_adder.a
+tb_full_adder.b
+tb_full_adder.cin
